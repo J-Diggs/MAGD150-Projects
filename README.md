@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to my MAGD 150 Project Page
+  -These programs are some of the tasks we were asked to create throughout the class.
+  -These programs for me are to show my creativity or lack thereof for these themes in the projects, I hope you enjoy!
 
-You can use the [editor on GitHub](https://github.com/J-Diggs/MAGD150-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Lab 06
+-This Lab was trying to focus on creating a simple retro style game. I tried to make a simple gemoetry style game where the objective is to dodge the green circles for as long as you can.
+-Click below to view the source code for this project.
+-[Lab 06 Source Code.](https://github.com/J-Diggs/MAGD150-Projects/blob/gh-pages/s19magd150lab06_Christy.pde)
 
-### Markdown
+## Lab 02
+-This lab was centered around the ability of color composition.
+-[Lab 02 Source Code.](https://github.com/J-Diggs/MAGD150-Projects/blob/gh-pages/s19magd150lab02_Christy.pde)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lab 10
+-The major theme for this project was to create a 3D model in our processing sketch and add a texture to it and have it change when the user interacted with the object by clicking it.
+-[Lab 10 Source Code.](https://github.com/J-Diggs/MAGD150-Projects/blob/gh-pages/s19magd150lab10_Christy.pde)
 
-```markdown
-Syntax highlighted code block
+## Lab 09
+-For this lab, we were tasked on adding a video and an image that had a filter applied to them. The theme for our assingment was to try and replicate a mirror so I tried to use the reflection of an old gameboy as the border.
+-[Lab 09 Source Code](https://github.com/J-Diggs/MAGD150-Projects/blob/gh-pages/s19magd150lab09_Christy.pde)
 
-# MAGD 150 Examples
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Click To See Source Code.](https://github.com/J-Diggs/MAGD150-Projects/blob/gh-pages/s19magd150lab06_Christy.pde and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/J-Diggs/MAGD150-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Lab 08
+-Our theme for this sketch was to try and make a movie poster with using unique and creative fonts in processing.
+-[Lab 08 Source Code](https://github.com/J-Diggs/MAGD150-Projects/blob/gh-pages/s19magd150lab08_Christy/s19magd150lab08_Christy.pde)
